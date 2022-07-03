@@ -10,7 +10,7 @@
  
 </p>
 
-
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  - 🔭 IJSE.
 - 🌱 Computer Science...
 - 💬 Ask me whatsapp - +94 753212298
@@ -20,8 +20,7 @@
 - address :n0 18,Kandakurunduwatta,Dediyawala,Waskaduwa,srilanka
 - hobbies :Singing songs,Reading books
 - My Projects also in <a href="https://github.com/trish6028?tab=repositories">Respositories</a>
-- 
- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  
 
  
 
