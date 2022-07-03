@@ -1,6 +1,6 @@
    [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b>Hello there, Welcome to My Profile..! 👋</b></h1>
+  <h1 align="center"><b>  Welcome to My Profile..! 👋</b></h1>
 </p>
  <img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Trishan+Priya+Sachin...😍😍;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering)](https://git.io/typing-svg)">
 
