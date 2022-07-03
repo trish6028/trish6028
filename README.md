@@ -10,7 +10,6 @@
  
 </p>
 
-<br>
 
  - 🔭 IJSE.
 - 🌱 Computer Science...
