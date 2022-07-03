@@ -23,24 +23,9 @@
 - My Projects also in <a href="https://github.com/trish6028?tab=repositories">Respositories</a>
 
 ## 📊 My Github stats
-
-|                                                                     Trishan's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Trishan's  𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=I-am-trish6028&theme=react-dark&hide_border=true&area=true) |
-| ![Trishan's  github stats](https://github-readme-stats.vercel.app/api?username=I-am-trish6028&show_icons=true&theme=algolia)              | 
-| ![Trishan's  GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-am-trish6028&theme=algolia)                    | 
-    
-
-|                                                                                                      Trishan's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=I-am-trish6028&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trish6028&langs_count=8&theme=algolia&layout=compact) |
-
-
-
-
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
+ <img src="https://github-readme-stats.vercel.app/api?username=trish6028&&show_icons=true&count_private=true&theme=blue-green&hide_border=true">|<img src="https://github-readme-streak-stats.herokuapp.com?user=trish6028&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j&background=081F8D15"/>
+|---|---|
+<img alt="Trishan Priya Sachin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trish6028&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>|
 
 <p align="Right">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=trish6028&color=brightgreen">
