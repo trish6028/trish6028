@@ -20,11 +20,8 @@
 - address :n0 18,Kandakurunduwatta,Dediyawala,Waskaduwa,srilanka
 - hobbies :Singing songs,Reading books
 - My Projects also in <a href="https://github.com/trish6028?tab=repositories">Respositories</a>
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/trish6028/trish6028/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
+- 
+ <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
  
 
