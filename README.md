@@ -22,6 +22,8 @@
 - hobbies :Singing songs,Reading books
 - My Projects also in <a href="https://github.com/trish6028?tab=repositories">Respositories</a>
 
+[<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/OldCodersClub?label=OldCodersClub%27s%20Stars&logoColor=red&style=social" align="right">](https://github.com/OldCodersClub/faq)
+
 ## 📊 My Github stats
  <img src="https://github-readme-stats.vercel.app/api?username=trish6028&&show_icons=true&count_private=true&theme=blue-green&hide_border=true">|<img src="https://github-readme-streak-stats.herokuapp.com?user=trish6028&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j&background=081F8D15"/>
 |---|---|
