@@ -2,7 +2,7 @@
 <p>
   <h1 align="center"><b>  Welcome to My Profile..! 👋</b></h1>
 </p>
- <img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Trishan+Priya+Sachin...😍😍😍😍;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering)](https://git.io/typing-svg)">
+ <img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Trishan+Priya+Sachin...😍😍😍😍;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering;Developer & Designer)](https://git.io/typing-svg)">
 
  
 <p align="center">
@@ -22,7 +22,7 @@
 - hobbies :Singing songs,Reading books
 - My Projects also in <a href="https://github.com/trish6028?tab=repositories">Respositories</a>
 
-[<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/OldCodersClub?label=OldCodersClub%27s%20Stars&logoColor=red&style=social" align="right">](https://github.com/OldCodersClub/faq)
+ 
 
 ## 📊 My Github stats
  <img src="https://github-readme-stats.vercel.app/api?username=trish6028&&show_icons=true&count_private=true&theme=blue-green&hide_border=true">|<img src="https://github-readme-streak-stats.herokuapp.com?user=trish6028&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j&background=081F8D15"/>
