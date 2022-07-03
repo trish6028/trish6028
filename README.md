@@ -1,179 +1,62 @@
    [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b>Hello there, I'm Sumanth 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Trishan Priya Sachin 👋</b></h1>
 </p>
+ <img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Trishan+Priya+Sachin...😍😍;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering)](https://git.io/typing-svg)">
 
-<p>
-  <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
-</p>
-
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
-</p>
-
+ 
 <p align="center">
 <br>
-<a href="https://www.facebook.com/smarty.saisumanth"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:tallurisaisumanth77@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+ 
 </p>
 
 <br>
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+ - 🔭 IJSE.
+- 🌱 Computer Science...
+- 💬 Ask me whatsapp - +94 753212298
+- contact me - +94 753212298
+- 😄 Pronouns: Trishan
+- school : Prince of Wales College,Moratuwa
+- address :n0 18,Kandakurunduwatta,Dediyawala,Waskaduwa,srilanka
+- hobbies :Singing songs,Reading books
+- My Projects also in <a href="https://github.com/trish6028?tab=repositories">Respositories</a>
 
-### I am a Systems Engineer Specialist at Infosys
-- 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning MERN Stack Development.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2020 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+## 📊 My Github stats
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=trish6028&&show_icons=true&count_private=true&theme=blue-green&hide_border=true">|<img src="https://github-readme-streak-stats.herokuapp.com?user=trish6028&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j&background=081F8D15"/>
+|---|---|
+<img alt="Trishan Priya Sachin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trish6028&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>|
 
-### Languages and Tools: 
-
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />-->
-<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<!--<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />-->
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
-<br>
-<br>
-<br>
-<br>
-
-<!--
-<details>
-  <summary>:zap: Github Stats</summary>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
+<p align="Right">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=trish6028&color=brightgreen">
+  <img alt="Profile followers" src="https://img.shields.io/github/followers/trish6028">
+  <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379">
+ <img src="https://komarev.com/ghpvc/?username=trish6028&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 </p>
-<br>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical">
+
+<a href="https://github.com/trish6028/github-readme-activity-graph"><img alt="trishan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=trish6028&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+### 👨‍💻 My Programming languages and tools
+<p>
+<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></a></a> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a><p align="left"> <a href="https://developer.android.com" target="_blank">  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>   </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>  </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="40" height="40"/></a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+<a href="https://gluonhq.com/products/scene-builder/" target="_blank"> <img src="https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" width="40" height="40"/></a>
+<a href="https://hibernate.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 </p>
-</details> -->
 
+## 🔗 Connect with Me
+<p align="center">
+ <a href="https://www.facebook.com/trishan.priyasachin.35"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+<a href=" https://www.instagram.com/__trizh.00"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+ <a href=" www.linkedin.com/in/trishan-priyasachin-b96187227"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+ <a href = "https://wa.me/94753212298" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="100px" height="100px"/></a>
+ 
+</p>
 
-### :zap: Github Stats
+<p align="center"> 
+  <h1>Visitor count</h1><br>
+  <img src="https://profile-counter.glitch.me/trish6028/count.svg" />
+</p>
 
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
-
-
-
-<!-- stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=dark)
-![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true")-->
-
-<!-- repos
-<a href="https://github.com/Sumanth-Talluri/Readers-Cabin">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Readers-Cabin&theme=dark" />
-</a>
-<a href="https://github.com/Sumanth-Talluri/JPMorgan-Chase-Virtual-Internship">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=JPMorgan-Chase-Virtual-Internship&theme=dark" />
-</a>
-<a href="https://github.com/Sumanth-Talluri/Python-for-Everybody-Specialization">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Python-for-Everybody-Specialization&theme=dark" />
-</a>
--->
-
-<br>
-
-### :zap: Recent Github Activity
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/codeSTACKr/goal-manager-react/pull/1) in [codeSTACKr/goal-manager-react](https://github.com/codeSTACKr/goal-manager-react)
-2. 💪 Opened PR [#1](https://github.com/t-satwik/Python-programs/pull/1) in [t-satwik/Python-programs](https://github.com/t-satwik/Python-programs)
-3. 🗣 Commented on [#143](https://github.com/dwyl/start-here/issues/143) in [dwyl/start-here](https://github.com/dwyl/start-here)
-<!--END_SECTION:activity-->
-
-<br>
-
-### 📊 &nbsp; STATS
-
-<!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 1.4 million Lines of Code ✍️**
-
-
-<!--END_SECTION_LINES_OF_CODE:readme-info-->
-
-<!--START_SECTION_DAILY_COMMIT:readme-info-->
-**I'm an early 🐤** 
-
-| | | | |
-| --- | --- | --- | --- |
-|🌞 Morning                |132 commits         |![](https://via.placeholder.com/112x22/000000/000000?text=+)![](https://via.placeholder.com/288x22/b8b8b8/b8b8b8?=text=+)|27.5%|
-|🌆 Daytime                |176 commits         |![](https://via.placeholder.com/148x22/000000/000000?text=+)![](https://via.placeholder.com/252x22/b8b8b8/b8b8b8?=text=+)|36.67%|
-|🌃 Evening                |147 commits         |![](https://via.placeholder.com/124x22/000000/000000?text=+)![](https://via.placeholder.com/276x22/b8b8b8/b8b8b8?=text=+)|30.63%|
-|🌙 Night                  |25 commits          |![](https://via.placeholder.com/20x22/000000/000000?text=+)![](https://via.placeholder.com/380x22/b8b8b8/b8b8b8?=text=+)|5.21%|
-| | | | |
-
-<!--END_SECTION_DAILY_COMMIT:readme-info-->
-
-<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-📅 **I'm Most Productive on Thursdays** 
-
-| | | | |
-| --- | --- | --- | --- |
-|Monday                   |89 commits          |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|14.61%|
-|Tuesday                  |62 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|10.18%|
-|Wednesday                |91 commits          |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|14.94%|
-|Thursday                 |110 commits         |![](https://via.placeholder.com/72x22/000000/000000?text=+)![](https://via.placeholder.com/328x22/b8b8b8/b8b8b8?=text=+)|18.06%|
-|Friday                   |82 commits          |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|13.46%|
-|Saturday                 |72 commits          |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.82%|
-|Sunday                   |103 commits         |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|16.91%|
-| | | | |
-
-<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
-
-<!--START_SECTION_LANGUAGE:readme-info-->
-**My 💖 languages Python** 
-
-| | | | |
-| --- | --- | --- | --- |
-|Python                   |10 repos|            ![](https://via.placeholder.com/224x22/000000/000000?text=+)![](https://via.placeholder.com/176x22/b8b8b8/b8b8b8?=text=+)|55.56%|
-|HTML                     |7 repos|             ![](https://via.placeholder.com/156x22/000000/000000?text=+)![](https://via.placeholder.com/244x22/b8b8b8/b8b8b8?=text=+)|38.89%|
-|JavaScript               |1 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.56%|
-| | | | |
-
-<!--END_SECTION_LANGUAGE:readme-info-->
-
-<br>
-
-<div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
-
-<!--[website]: -->
-[twitter]: https://twitter.com/sumanth_98?s=09
-<!--[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg-->
-[instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
-[linkedin]: https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/
------
-Credits: [SumanthTalluri](https://github.com/Sumanth-Talluri)
-
-Last Edited on: 12/12/2020
+Credits: [trish6028(Trishan Priya Sachin)](https://github.com/trish6028)
